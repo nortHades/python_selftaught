@@ -1,0 +1,2 @@
+Hello, world!
+The fire alarm is fake.

@@ -1,0 +1,2 @@
+Hello Python!
+File operations are easy.
